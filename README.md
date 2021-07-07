@@ -21,7 +21,7 @@ n/a
 
 ## Usage
 
-to use this app just click <a href="https://git.heroku.com/redux-store1.git">HERE!</a> Login and start shopping! To buy the items in your cart it uses stripe!
+to use this app just click <a href="https://git.heroku.com/redux-store1.git">HERE!</a> Login and start shopping! To buy the items in your cart it uses stripe! Here is a video demonstration on useage, https://drive.google.com/file/d/1qngoWfxfLfBCLz3teexTQzpLkJ8_2cwP/view
 
 ## License
 
